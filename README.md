@@ -1,5 +1,5 @@
-# Circularly Coupled MCMC
-Illustrating Circularly Coupled MCMC from Radford Neal's “Circularly-Coupled Markov Chain Sampling.” Currently a WIP.
+# Circularly Coupled MCMC (WIP)
+Illustrating Circularly Coupled MCMC from Radford Neal's “Circularly-Coupled Markov Chain Sampling.” 
 
 Authors: Seth Billiau, Christine Cai, Michael Yin with invaluable contributions from Prof. Pierre Jacob and his course on Couplings and Monte Carlo
 
